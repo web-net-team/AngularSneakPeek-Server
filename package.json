@@ -24,6 +24,8 @@
     }
   ],
   "dependencies": {
+    "node-uuid": "^1.4.3",
+    "nosql": "^3.0.2",
     "restify": "^3.0.3"
   }
 }
